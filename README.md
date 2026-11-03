@@ -1,9 +1,8 @@
-# Prova prática - Automação de Testes
+# AP2
 
-Arquivos `exN_*.py`: implemente as funções. Crie um `test_exN.py` para cada um.
-`exemplo_desconto.py` + `test_exemplo_desconto.py`: exemplo resolvido do padrão com mock.
-
-Rodar: `python -m pytest -v`
+Gabrielly Campos Buganca - RA: 2500214
+Giovanna Rodrigues Pereira - RA: 2500628
+Luanne Teles de Oliveira - RA: 2301320
 
 Git:
     git init
